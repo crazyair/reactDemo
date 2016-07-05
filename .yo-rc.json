@@ -1,6 +1,6 @@
 {
   "generator-react-webpack": {
-    "appName": "demo2",
+    "appName": "reactdemo",
     "style": "css",
     "postcss": false,
     "generatedWithVersion": 3
